@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Doom-Bird
 ### Tecnologias usadas
 
 <div style="display: inline_block"></br>
