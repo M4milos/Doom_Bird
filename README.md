@@ -10,6 +10,9 @@
 ## Requisitos para inicializar o jogo: 
 Python faça o download em: https://www.python.org/  
 Pygame faça o download em: https://www.pygame.org
+
+Depois de instalar o Python, instale o PyGame por meio da linha de comando (ou do terminal no VS Code) digitando "python -m pip install -U pygame --usuário".
+
 </br></br>
 
 #### Pode ser usado as versões de Python apartir do suporte do Pygame
